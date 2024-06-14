@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    padding-top: 56px;
+}
+.header {
+    background: linear-gradient(135deg, #007bff, #6610f2);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+}
+.navbar {
+    margin-bottom: 2rem;
+}
+.footer {
+    margin-top: 2rem;
+}
+.section-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+}
